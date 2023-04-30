@@ -55,7 +55,7 @@
   }
 
   .controls {
-    width: 80%;
+    /* width: 80%; */
     flex-direction: row;
   }
 
